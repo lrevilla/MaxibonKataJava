@@ -13,7 +13,7 @@ During this kata we will try to find how to use property based testing from diff
 
 If you want to learn just property based testing using an already implemented application go to the branch ``write-tests``. If you prefer to practice TDD in the ``master`` branch you will find the kata already resolved. If you prefer to practice mutation testing stay in the ``master`` branch.
 
-## Getting started
+## Getting started 
 
 Karumi developers love ice cream. And one of our favorites ice cream is named Maxibon:
 
